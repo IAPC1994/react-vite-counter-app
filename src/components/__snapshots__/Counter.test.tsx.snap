@@ -1,0 +1,28 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Counter App > Should have match with the snapshot 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <h1>
+      Count: 
+      0
+    </h1>
+    <div>
+      <button>
+         Increment 
+      </button>
+      <button>
+         Decrement 
+      </button>
+      <button>
+         Restart 
+      </button>
+      <button>
+         Switch Signs 
+      </button>
+    </div>
+  </div>
+</div>
+`;
